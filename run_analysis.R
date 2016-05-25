@@ -1,4 +1,4 @@
-setwd("C:\\qtzhang\\study\\Classes\\John Hopkins data science\\Getting and Cleaning Data\\week4\\UCI HAR Dataset")
+setwd("\\UCI HAR Dataset")
 #read feature name
 features<-read.table("./features.txt",header = FALSE)
 #read train raw data
