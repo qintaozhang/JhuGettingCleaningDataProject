@@ -1,5 +1,3 @@
-# JhuGettingCleaningDataProject
-
 ## Class Project(week4) for "Getting and Cleaning Data"
 
 The class project for [Getting and Cleaning Data](https://www.coursera.org/course/getdata) was to read in the ["Human Activity Recognition Using Smartphones" data set](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones), perform an analysis on the data set, and output a tidy data set.
